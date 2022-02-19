@@ -154,22 +154,22 @@ nav a:hover:after {
   padding-right: 10px;
   border-radius: 20px;
   height: 100%;
-  width: 2%;
+  width: 8%;
   background-color: #455577;
 }
 
-.js {
+.javascript {
   padding-right: 10px;
   border-radius: 20px;
   height: 100%;
-  width: 1%;
+  width: 4%;
   background-color: #455577;
 }
 .git {
   padding-right: 10px;
   border-radius: 20px;
   height: 100%;
-  width: 1%;
+  width: 4%;
   background-color: #c8293f;
 }
 
@@ -177,7 +177,7 @@ nav a:hover:after {
   padding-right: 10px;
   height: 100%;
   border-radius: 20px;
-  width: 80%;
+  width: 4%;
   background-color: #455577;
 }
 
